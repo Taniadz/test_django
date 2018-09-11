@@ -1,0 +1,11 @@
+<countries>
+    <country>
+        <name>Ukraine</name>
+        <id>123456</id>
+    </country>
+    <country>
+        <name>Poland</name>
+        <id>789012</id>
+    </country>
+</countries>
+
